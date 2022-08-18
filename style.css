@@ -1,0 +1,307 @@
+.navigation {
+    position: fixed;
+    margin-top: 10px;
+    width: 100%;
+    z-index: 10;
+}
+
+.navigation a {
+    color: white;
+    text-align: start center;
+    background-color: black;
+    padding: 10px;
+    border-radius: 100px;
+    border: 4px solid white;
+    font-size: 15px;
+    font-family: fantasy;
+
+}
+
+footer a {
+    color: white;
+    text-align: start center;
+    background-color: black;
+    padding: 15px 30px;
+    border-radius: 100px;
+    border: 4px solid white;
+    font-size: 20px;
+    font-family: fantasy;
+
+}
+
+
+#banner {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 55px;
+}
+
+#banner img {
+    border-radius: 25%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;    
+
+}
+
+#fulloutfits h2,
+#pants h2,
+#longsleeveshirts h2,
+#t-shirts h2,
+#fancovers h2,
+#croptops h2,
+#bootyshorts h2,
+#masks h2,
+#fire-safestandards h2,
+#photoshoots h2,
+footer {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 40%;
+    height: 100;
+
+}
+
+#fulloutfits img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;    
+
+}
+
+#pants img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;   
+
+}
+
+#longsleeveshirts img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;   
+
+}
+
+#t-shirts img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;    
+
+}
+
+#fancovers img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;    
+
+}
+
+#croptops img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;    
+
+}
+
+#bootyshorts img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;    
+
+}
+
+#masks img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;    
+
+}
+
+#photoshoots img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;    
+
+}
+
+#fire-safestandards img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+
+}
+
+#aboutmepic img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    margin-top: 50px;
+
+}
+
+footer img {
+    border-radius: 35%;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    margin-top: 20px; 
+}
+
+body { text-align: center;
+        background-color: antiquewhite;
+
+}
+
+p { font-size: 20px;
+    text-align: center;
+    padding: 0 400px;
+    font-family: 'Aboreto';
+
+}
+
+#fulloutfits h2 { font-size: 70px;
+    font-family: "Dancing Script";
+    font-style: oblique;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin: 0;
+    border: 0;
+    text-shadow: 20px 20px 5px black;
+  
+}
+
+#pants h2 { font-size: 70px;
+     font-family: "Dancing Script";
+     font-style: oblique;
+     color: white;
+     padding-top: 60px;
+     padding-bottom: 20px;
+     margin: 0;
+     border: 0;
+     text-shadow: 20px 20px 5px black;
+   
+}
+
+#longsleeveshirts h2 { font-size: 70px;
+    font-family: "Dancing Script";
+    font-style: oblique;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin: 0;
+    border: 0;
+    text-shadow: 20px 20px 5px black;
+  
+}
+
+#t-shirts h2 { font-size: 70px;
+    font-family: "Dancing Script";
+    font-style: oblique;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin: 0;
+    border: 0;
+    text-shadow: 20px 20px 5px black;
+  
+}
+
+#fancovers h2 { font-size: 70px;
+    font-family: "Dancing Script";
+    font-style: oblique;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin: 0;
+    border: 0;
+    text-shadow: 20px 20px 5px black;
+  
+}
+
+#croptops h2 { font-size: 70px;
+    font-family: "Dancing Script";
+    font-style: oblique;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin: 0;
+    border: 0;
+    text-shadow: 20px 20px 5px black;
+  
+}
+
+#bootyshorts h2 { font-size: 70px;
+    font-family: "Dancing Script";
+    font-style: oblique;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin: 0;
+    border: 0;
+    text-shadow: 20px 20px 5px black;
+  
+}
+
+#masks h2 { font-size: 70px;
+    font-family: "Dancing Script";
+    font-style: oblique;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin: 0;
+    border: 0;
+    text-shadow: 20px 20px 5px black;
+  
+}
+
+#photoshoots h2 { font-size: 70px;
+    font-family: "Dancing Script";
+    font-style: oblique;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin: 0;
+    border: 0;
+    text-shadow: 20px 20px 5px black;
+  
+}
+
+#fire-safestandards h2 { font-size: 70px;
+    font-family: "Dancing Script";
+    font-style: oblique;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin: 0;
+    border: 0;
+    text-shadow: 20px 20px 5px black;
+  
+}
+
+h3 { font-size: 30px;
+     font-style: italic;
+     font-style: oblique;
+     font-family: "Dancing Script";
+
+}
+
+h4 { font-style: italic;
+
+}
+
+footer { padding-bottom: 30px;
+
+}
